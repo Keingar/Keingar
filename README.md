@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm student and game developer. Right now, I'm working on my game as a hobby with my friend
+
 <!--
 **Keingar/Keingar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
