@@ -2,7 +2,7 @@
 
 I'm a Computer Science student and hobbyist game developer.
 
-I'm currently working on a game in Unreal Engine 5 as a hobby with my friend
+I'm currently developing a game in Unreal Engine 5 with a friend
 
 <!--
 **Keingar/Keingar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
