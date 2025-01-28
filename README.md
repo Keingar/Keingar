@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm student and game developer. Right now, I'm working on my game as a hobby with my friend
+I'm a Computer Science student and hobbyist game developer.
+
+I'm currently working on a game in Unreal Engine 5 as a hobby with my friend
 
 <!--
 **Keingar/Keingar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
